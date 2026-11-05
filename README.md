@@ -38,7 +38,7 @@ All 30 tickets were included in ticket-volume analysis. Resolution time and cust
 
 ## Dashboard
 
-![IT Help Desk Performance Dashboard](dashboard.png)
+![IT Help Desk Performance Dashboard](Dashboard.png)
 
 ## Key Findings
 
